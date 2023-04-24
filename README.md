@@ -1,2 +1,2 @@
 # testgithub
-using this to learn how to use githbu
+using this to learn how to use github
